@@ -10,6 +10,6 @@ I'm a deep learning and embedded systems enthusiast with a focus on AI reliabili
 - **Embedded Systems**: Developing hardware and code for humanitarian robots.
 
 ### **Stack**
-- **Languages**: Python, MATLAB, VHDL.
+
 - **Machine Learning Frameworks**: PyTorch.
 
