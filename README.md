@@ -12,3 +12,6 @@ I'm Rajesh 🌱
 
 - **Machine Learning Frameworks**: PyTorch.
 
+
+Since you are here, enjoy this meme:
+<img width="2000" height="2000" alt="image" src="https://github.com/user-attachments/assets/ba3ea1d4-dab8-42eb-819b-ae4eff79c22c" />
