@@ -4,7 +4,8 @@ I'm Rajesh 🌱
 
 
 ### **What I Do/Did**
-  - **AI Research**: Out-of-distribution detection, Anomaly Detection, incremental (active) learning, and enhancing AI reliability.
+- **Digital Biology** : Getting started with digital biology (Protein structure prediction,protein/binder/antibody design,etc). https://github.com/rajeshgangireddy/awesome-digital-biology
+- **AI Research**: Out-of-distribution detection, Anomaly Detection, incremental (active) learning, and enhancing AI reliability.
 - **On-Device AI**: Optimizing neural networks for mobile platforms to achieve faster and smaller models.
 - **Embedded Systems**: Developing hardware and code for humanitarian robots.
 
